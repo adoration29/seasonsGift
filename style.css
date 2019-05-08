@@ -1,0 +1,13 @@
+div{
+    background-color:rgb(206, 6, 6);
+    width: 47.5%;
+    height: 47.5%;
+    font-family: cursive;
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    }
+    .pokemon {
+        width: 250px;
+    }
+    
